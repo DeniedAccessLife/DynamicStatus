@@ -1,5 +1,5 @@
 # DynamicStatus
-A program for dynamic changing the status in VKontakte.
+Program for dynamic changing the status in VKontakte.
 
 # View
 Window of the program.
